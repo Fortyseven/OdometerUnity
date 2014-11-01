@@ -1,6 +1,7 @@
 # Unity3D .gitignore file.
 # Store this file at the root of your local repository.
 .DS_Store
+ProjectSettings
 Assets/ConsolePro*
 Assets/UnityVS*
 Library/AssetImportState
@@ -15,6 +16,7 @@ Library/metadata
 Library/previews
 Library/guidmapper
 Library
+*.userprefs
 Temp
 *.csproj
 *.pidb
